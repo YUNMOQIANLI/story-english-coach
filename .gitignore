@@ -1,0 +1,15 @@
+# Personal course records and generated files
+data/
+logs/
+downloads/
+dist/
+archive/
+node_modules/
+memory.json
+memory.json.*
+*.lock
+*.tmp
+.env
+.env.*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+interface:
+  display_name: "连载故事英语私教"
+  short_description: "用喜欢的故事学英语：逐句精讲、答题过关、本地接续与词汇复习"
+  default_prompt: "使用 $story-english-coach，根据我喜欢的题材创建连载英语课程，逐句讲解、答题过关，并保存本地学习档案。"
